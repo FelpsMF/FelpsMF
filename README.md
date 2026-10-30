@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá Mundo! Me chamo Luiz Felipe, sou natural de São Paulo e possuo aptidão por tecnológia desde pequeno. Me formei técnico em Desenvolvimento de Sistemas pela instituição "[Etec](https://www.cps.sp.gov.br/etecs/etec-joao-gomes-de-araujo/)", e atualmente, curso bacharel em Sistemas da Informação na instituição "[Gran Faculdade](https://faculdade.grancursosonline.com.br/)", futuramente, pretendo ingressar no curso de Defesa Cibernética. 
+Olá Mundo! Me chamo Luiz Felipe, sou natural de São Paulo e possuo aptidão por tecnológia desde pequeno. Me formei técnico em Desenvolvimento de Sistemas pela instituição "[Etec](https://www.cps.sp.gov.br/etecs/etec-joao-gomes-de-araujo/)", e atualmente, curso bacharel em Sistemas da Informação na instituição "[Gran Faculdade](https://faculdade.grancursosonline.com.br/)". Futuramente, pretendo ingressar no curso de Defesa Cibernética. 
 
 
 ---
